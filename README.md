@@ -1,6 +1,6 @@
-# Stat-5701-HW
+# HW-Code-Examples
 
-Examples of my code from my Statistical Computing class. There are many things that could be done in other ways (most notably these assignments rarely use the lm() command) but this course was focused on using very basic tools to solve problems. 
+Examples of my code from my Statistical Computing class. There are many things that could be done in other ways (most notably these assignments rarely use the lm() command) but this course was focused on using very basic tools to solve problems. I do not have the first two homework assignments because I deleted them before I had the idea for this repository. 
 
 A brief description of each file:
 
