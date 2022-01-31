@@ -9,3 +9,5 @@ HW 3 is broadly about regression and cross validation
 HW 4 is about optimization in the context of statistical problems
 
 HW 5 is about other forms of models, e.g. lasso, binomial logistic regression, etc.
+
+The midterm is about Monte Carlo methods for realizing random variables and regression
